@@ -35,7 +35,7 @@ A quick-reference guide
 •	compare and contrast the three different cloud models  
 
 
-### 2.Understand core Azure services
+### [2.Understand core Azure services](core-azure-services.md)
 
 **Understand the core Azure architectural components**
 
