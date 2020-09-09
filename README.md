@@ -11,7 +11,7 @@ A quick-reference guide
 4. Understanding Azure Pricing and Support **(25-30%)**   
 -----------------
 
-### 1.Understand cloud concepts
+### [1.Understand cloud concepts](cloud-concepts.md)
 
 **Describe the benefits and considerations of using cloud services**
 
