@@ -119,7 +119,7 @@ A quick-reference guide
 •	describe Azure China cloud services
 
 
-### 4.Understand Azure pricing and support
+### [4.Understand Azure pricing and support](pricing-and-support.md)
  
 
 **Understand Azure subscriptions**
