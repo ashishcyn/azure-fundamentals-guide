@@ -68,7 +68,7 @@ A quick-reference guide
 •	understand Azure Advisor
 
 
-### 3.Understand security, privacy, compliance, and trust
+### [3.Understand security, privacy, compliance, and trust](security-privacy-compliance-and-trust.md)
 
 **Understand securing network connectivity in Azure**
 
